@@ -70,13 +70,6 @@ Offline-first mobile map application built for Sri Lanka.
 
 ---
 
-## 📊 GitHub Stats
-
-![Amila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amila-sandaruwan-git&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amila-sandaruwan-git&layout=compact&hide_border=true)
-
----
 
 ## 📫 Connect With Me
 
